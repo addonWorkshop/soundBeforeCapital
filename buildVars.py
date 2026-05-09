@@ -27,7 +27,7 @@ addon_info = {
 		"Replaces the beep before capital letters with a sound."
 	),
 	# version
-	"addon_version": "0.2.3",
+	"addon_version": "0.3.0",
 	# Author(s)
 	"addon_author": "Danstiv <danstiv@yandex.ru>",
 	# URL for the add-on documentation support
@@ -41,7 +41,7 @@ addon_info = {
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
-	"addon_updateChannel": None,
+	"addon_updateChannel": "dev",
 }
 
 # Define the python files that are the sources of your add-on.
