@@ -27,7 +27,7 @@ addon_info = {
 		"Replaces the beep before capital letters with a sound."
 	),
 	# version
-	"addon_version": "0.3.0",
+	"addon_version": "0.3.1",
 	# Author(s)
 	"addon_author": "Danstiv <danstiv@yandex.ru>",
 	# URL for the add-on documentation support
